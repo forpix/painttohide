@@ -1,0 +1,9 @@
+{
+  "name": "painttohide",
+  "compatibility_date": "2026-07-01",
+  "assets": { "directory": "./docs" },
+  "routes": [
+    { "pattern": "painttohide.com", "custom_domain": true },
+    { "pattern": "www.painttohide.com", "custom_domain": true }
+  ]
+}
