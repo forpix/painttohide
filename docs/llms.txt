@@ -11,3 +11,6 @@ Not affiliated with Roblox or the developer. Honest codes tracking: no verified 
 - [Paint To Hide Hiding Spots & Camouflage Tips (Roblox)](https://painttohide.com/hiding-spots/): Where to hide in Paint To Hide and how to color-match so seekers walk past: surface choice, outline control, the Shift + P self-check, and the ban line.
 - [Paint To Hide Seeker Guide — Find Every Hider (Roblox)](https://painttohide.com/seeker-guide/): Seeker tips for Paint To Hide: sweep routes instead of circles, spotting bad paint jobs, and using catch-to-convert to snowball before the timer ends.
 - [Paint To Hide vs Paint Or Seek vs Paint and Hide (Roblox)](https://painttohide.com/vs-paint-or-seek/): Six Roblox paint hide and seek games share nearly one name. Compare creators, release dates, and codes status — and land in the game you actually meant.
+- [About This Wiki](https://painttohide.com/about/): who runs the site and how facts are checked
+- [Updates & Changelog](https://painttohide.com/updates/): tracked game updates and wiki changes
+- [Privacy Policy](https://painttohide.com/privacy/): data handling and ad cookie disclosure
