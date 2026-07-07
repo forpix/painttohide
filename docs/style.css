@@ -126,6 +126,12 @@ table tr:last-child > *:last-child { border-bottom-right-radius: 10px; }
 }
 .playbtn:hover { filter: brightness(1.08); }
 
+figure { margin: 20px 0; }
+figure img { display: block; width: 100%; height: auto; border-radius: 14px; border: 2px solid var(--line); }
+figcaption { font-size: .8em; color: var(--muted); margin-top: 7px; }
+.shotpair { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 20px 0; }
+.shotpair figure { margin: 0; }
+@media (max-width: 640px) { .shotpair { grid-template-columns: 1fr; } }
 img.shot { max-width: 100%; border-radius: 14px; border: 2px solid var(--line); display: block; margin: 18px 0; }
 ol li, ul li { margin: 6px 0; }
 footer {
